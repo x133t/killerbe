@@ -1,3 +1,23 @@
+# Welcome Message
+Hello! **nul1337** here.
+
+I specialize in software testing and programming in Python and Ranorex. In the near future, I plan to master C# for native application development. This page showcases my projects.
+
+## Skills & Interests
+- **Software Testing**: I conduct functional, load, and regression testing of various software, focusing on quality and user experience
+- **Python Programming**: I develop automation scripts, utilize Pandas, NumPy libraries, and Django framework for creating various projects
+- **Learning C#**: I plan to master C# for cross-platform .NET application development
+- **AI Assistants Usage**: I apply Claude and ChatGPT to optimize routine processes, create effective prompts for programming, and solve creative tasks
+- **English Proficiency**: A2+ (Pre-Intermediate) level, working on advancing to B1
+
+## Contact Me
+- **Email**: 414r7@protonmail.com
+- **GitHub**: [github.com/killerbe](https://github.com/killerbe?tab=repositories)
+
+## Acknowledgements
+Thank you for visiting my profile! I'm open to new projects in software testing and process automation with Ranorex, Python, and AI application. If you have collaboration proposals or interesting technical challenges, I'd be happy to discuss!
+
+
 # Приветственное сообщение
 Привет! На связи **nul1337**. 
 
