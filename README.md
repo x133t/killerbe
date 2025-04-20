@@ -12,7 +12,7 @@ I specialize in software testing and programming in Python and Ranorex. In the n
 - **English Proficiency**: A2+ (Pre-Intermediate) level, working on advancing to B1
 
 ## Contact Me
-- **Email**: 414r7@protonmail.com
+- **Email**: uchihamadark@gmail.com
 - **GitHub**: [github.com/killerbe](https://github.com/killerbe?tab=repositories)
 
 ## Acknowledgements
@@ -32,7 +32,7 @@ Thank you for visiting my profile! I'm open to new projects in software testing 
 - **Английский язык**: Уровень A2+ (Pre-Intermediate), работаю над повышением до уровня B1
 
 ## Связаться со мной
-- **Email**: 414r7@protonmail.com
+- **Email**: uchihamadark@gmail.com
 - **GitHub**: [github.com/killerbe](https://github.com/killerbe?tab=repositories)
 
 ## Благодарности
