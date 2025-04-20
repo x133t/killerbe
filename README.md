@@ -1,4 +1,5 @@
-# Welcome Message
+# English
+## Welcome Message
 Hello! **nul1337** here.
 
 I specialize in software testing and programming in Python and Ranorex. In the near future, I plan to master C# for native application development. This page showcases my projects.
@@ -17,8 +18,8 @@ I specialize in software testing and programming in Python and Ranorex. In the n
 ## Acknowledgements
 Thank you for visiting my profile! I'm open to new projects in software testing and process automation with Ranorex, Python, and AI application. If you have collaboration proposals or interesting technical challenges, I'd be happy to discuss!
 
-
-# Приветственное сообщение
+# Russian
+## Приветственное сообщение
 Привет! На связи **nul1337**. 
 
 Я специализируюсь на тестировании программного обеспечения и программировании на Python и Ranorex. В ближайшее время планирую освоить C# для разработки нативных приложений. На этой странице представлены мои проекты.
