@@ -13,7 +13,7 @@ I specialize in software testing and programming in Python and Ranorex. In the n
 
 ## Contact Me
 - **Email**: uchihamadark@gmail.com
-- **GitHub**: [github.com/killerbe](https://github.com/killerbe?tab=repositories)
+- **TG**: [a14rt5](https://t.me/a14rt5)
 
 ## Acknowledgements
 Thank you for visiting my profile! I'm open to new projects in software testing and process automation with Ranorex, Python, and AI application. If you have collaboration proposals or interesting technical challenges, I'd be happy to discuss!
@@ -33,7 +33,7 @@ Thank you for visiting my profile! I'm open to new projects in software testing 
 
 ## Связаться со мной
 - **Email**: uchihamadark@gmail.com
-- **GitHub**: [github.com/killerbe](https://github.com/killerbe?tab=repositories)
+- **TG**: [a14rt5](https://t.me/a14rt5)
 
 ## Благодарности
 Спасибо за посещение моего профиля! Я открыт для новых проектов в области тестирования ПО и автоматизации процессов на Ranorex, Python, применяя ИИ. Если у вас есть предложения по сотрудничеству или интересные технические задачи, буду рад обсудить!
